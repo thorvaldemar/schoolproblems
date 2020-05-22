@@ -33,7 +33,7 @@ namespace TextStory {
             //Console.WriteLine("----------------School Problems----------------");
 
             // TODO: Print intro
-            Print("Welcome to ...");
+            //Print("Welcome to ...");
             Print("You can type 'exit game' at any time, to quit and close the game.");
 
             reset();
