@@ -63,7 +63,6 @@ namespace TextStory {
         }
 
         public void reset() {
-            Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine();
             Console.WriteLine();
             Print("You are a new student on current school. Therefore, you have some trouble finding the different classrooms.\nAfter your lunch break you need to locate Room F28,\nbut you do not know how to get there.");
@@ -72,7 +71,6 @@ namespace TextStory {
         }
 
         public void die() {
-            Console.BackgroundColor = ConsoleColor.Red;
             Thread.Sleep(200);
             reset();
         }

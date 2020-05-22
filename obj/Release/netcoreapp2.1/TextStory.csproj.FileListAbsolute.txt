@@ -1,0 +1,10 @@
+C:\Users\thor0\source\repos\TextStory\TextStory\bin\Release\netcoreapp2.1\TextStory.deps.json
+C:\Users\thor0\source\repos\TextStory\TextStory\bin\Release\netcoreapp2.1\TextStory.runtimeconfig.json
+C:\Users\thor0\source\repos\TextStory\TextStory\bin\Release\netcoreapp2.1\TextStory.runtimeconfig.dev.json
+C:\Users\thor0\source\repos\TextStory\TextStory\bin\Release\netcoreapp2.1\TextStory.dll
+C:\Users\thor0\source\repos\TextStory\TextStory\bin\Release\netcoreapp2.1\TextStory.pdb
+C:\Users\thor0\source\repos\TextStory\TextStory\obj\Release\netcoreapp2.1\TextStory.csproj.CoreCompileInputs.cache
+C:\Users\thor0\source\repos\TextStory\TextStory\obj\Release\netcoreapp2.1\TextStory.AssemblyInfoInputs.cache
+C:\Users\thor0\source\repos\TextStory\TextStory\obj\Release\netcoreapp2.1\TextStory.AssemblyInfo.cs
+C:\Users\thor0\source\repos\TextStory\TextStory\obj\Release\netcoreapp2.1\TextStory.dll
+C:\Users\thor0\source\repos\TextStory\TextStory\obj\Release\netcoreapp2.1\TextStory.pdb
